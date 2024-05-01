@@ -3,3 +3,5 @@
 #function1 ()
 
 #function 2()
+
+#function3 ()
