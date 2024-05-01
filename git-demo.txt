@@ -2,3 +2,7 @@
 
 #function1 ()
 
+<<<<<<< HEAD
+=======
+#function 2()
+>>>>>>> feature
