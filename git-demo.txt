@@ -1,8 +1,4 @@
 #git SSH example
-<<<<<<< HEAD
-=======
 
 #function1 ()
 
-#function 2()
->>>>>>> 90ec480 (fun2 added into feature Branch)
